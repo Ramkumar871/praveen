@@ -4,6 +4,7 @@ import Navigation from '../components/Navigation';
 import { Container } from '@mui/material';
 import SecondHeader from '../components/SecondHeader';
 import RentHeaderImg from '../assets/images/rent-header-img.jpg';
+import rentHeaderImg from '../assets/images/rent-header-img.jpg';
 import rentItems from '../assets/rentItems';
 import Footer from '../components/Footer';
 
